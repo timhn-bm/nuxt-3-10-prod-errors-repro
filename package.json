@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "nuxt": "3.10.3",
-    "vue": "3.4.x",
+    "vue": "latest",
     "vue-router": "latest"
   },
   "volta": {
