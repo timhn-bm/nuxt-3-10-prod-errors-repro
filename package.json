@@ -14,10 +14,6 @@
     "vue": "3.4.x",
     "vue-router": "latest"
   },
-  "devDependencies": {
-    "@nuxt/kit": "3.10.3",
-    "@nuxt/schema": "3.10.3"
-  },
   "volta": {
     "node": "20.18.1",
     "yarn": "4.5.1"

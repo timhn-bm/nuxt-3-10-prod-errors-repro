@@ -5346,8 +5346,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "nuxt-app@workspace:."
   dependencies:
-    "@nuxt/kit": "npm:3.10.3"
-    "@nuxt/schema": "npm:3.10.3"
     nuxt: "npm:3.10.3"
     vue: "npm:3.4.x"
     vue-router: "npm:latest"
